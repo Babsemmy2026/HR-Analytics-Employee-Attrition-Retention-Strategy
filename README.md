@@ -1,7 +1,5 @@
-# HR-Attrition-SQL-Python-LookerStudio
+# HR Analytics: Employee Attrition & Retention Analysis
 Portfolio project demonstrating SQL, Python, statistical testing, and dashboard development to analyze employee attrition and retention.
-
-# 📊 HR Analytics: Employee Attrition & Retention Analysis
 
 ## Overview
 
