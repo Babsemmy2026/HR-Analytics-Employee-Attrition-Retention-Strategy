@@ -1,4 +1,4 @@
-HR Attrition Analytics & Prediction Dashboard
+#  HR Attrition Analytics & Prediction Dashboard
 
 ## Overview
 
@@ -9,7 +9,7 @@ and analyze workforce tenure patterns.
 The dashboard provides actionable insights into high-risk employee segments—such as those working overtime
 or receiving lower monthly compensation—enabling proactive retention strategies.
 
-Key Metrics & Insights
+##  Key Metrics & Insights
 📌 Core Workforce KPIs
 Total Employees: 1,470
 
@@ -63,7 +63,7 @@ Data Processing & Analysis: Python (Pandas, NumPy) / SQL
 
 Statistical Analysis: Statistical significance testing (Hypothesis testing) on core HR metrics
 
-Strategic Recommendations
+#  Strategic Recommendations
 Target Early Tenure (0–2 Years): Implement structured onboarding and 90-day review touchpoints to
 reduce early-career churn.
 
