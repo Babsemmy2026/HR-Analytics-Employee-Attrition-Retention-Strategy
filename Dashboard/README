@@ -1,1 +1,74 @@
+HR Attrition Analytics & Prediction Dashboard
 
+## Overview
+
+This repository contains an end-to-end HR Attrition Analytics Dashboard designed to help business leaders 
+and HR professionals identify key drivers behind employee turnover, evaluate compensation disparities, 
+and analyze workforce tenure patterns.
+
+The dashboard provides actionable insights into high-risk employee segments—such as those working overtime
+or receiving lower monthly compensation—enabling proactive retention strategies.
+
+Key Metrics & Insights
+📌 Core Workforce KPIs
+Total Employees: 1,470
+
+Overall Attrition Rate: 16.12%
+
+Average Monthly Income: €6,502.93
+
+Average Tenure: 7.01 years
+
+Main Analytical Views
+1. Attrition by Department
+Sales experiences the highest attrition rate at 20.63%, closely followed by Human Resources at 19.05%.
+
+Research & Development demonstrates the highest retention stability with the lowest attrition rate at 13.84%.
+
+2. Impact of Overtime on Attrition
+Employees working overtime face a dramatically higher attrition rate (30.53%) compared to non-overtime staff (10.44%).
+
+Overtime workload is identified as a primary trigger for employee departure.
+
+3. Income Disparity vs. Turnover
+Employees who stayed at the company have a significantly higher average monthly income (€6,832.74).
+
+Employees who left earned an average monthly income of €4,787.09, highlighting compensation as a core retention factor.
+
+4. Tenure vs. Attrition Breakdown
+0–2 Years: Highest vulnerability window (102 departures out of 342 total employees in this cohort).
+
+3–5 Years: 60 departures (out of 434 total).
+
+6–10 Years: 55 departures (out of 448 total).
+
+10+ Years: Highest stability (20 departures out of 246 total).
+
+Features & Interactivity
+Interactive Filters: Filter dataset views by Department, JobRole, Tenure Group, and OverTime status.
+
+Multi-Tab Navigation:
+
+HR Attrition Dashboard (Overview KPIs and key driver visuals)
+
+Analytical Dashboard (Deep-dive breakdown)
+
+Statistical Validation (Hypothesis testing and significance results)
+
+Dashboard Preview
+Technical Stack & Tools
+Data Visualization / Dashboard: Looker Studio / Tableau / Power BI
+
+Data Processing & Analysis: Python (Pandas, NumPy) / SQL
+
+Statistical Analysis: Statistical significance testing (Hypothesis testing) on core HR metrics
+
+Strategic Recommendations
+Target Early Tenure (0–2 Years): Implement structured onboarding and 90-day review touchpoints to
+reduce early-career churn.
+
+Review Overtime Policies: Address burnout in departments with high overtime rates (particularly Sales) 
+by reallocating workload or hiring supporting roles.
+
+Re-evaluate Compensation Structures: Conduct competitive market rate adjustments for roles where 
+departure rates correlate heavily with lower base pay.
