@@ -259,6 +259,6 @@ HR-Attrition-Analysis/
 
 **Barbara**
 
-Aspiring Data Analyst with a passion for transforming data into actionable business insights using SQL, Python, and data visualization tools.
+Data Analyst with a passion for transforming data into actionable business insights using SQL, Python, and data visualization tools.
 
 If you found this project interesting or have feedback, feel free to connect or reach out.
