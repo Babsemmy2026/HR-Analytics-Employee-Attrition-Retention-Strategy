@@ -1,76 +1,46 @@
-#  HR Attrition Analytics & Prediction Dashboard
+#  HR Attrition Analytics Dashboard
 
 *LIFE DASHBOARD LINK:* https://datastudio.google.com/reporting/99ba624d-8f2a-4f35-9af2-326f3dc285b2/page/9g10F/edit
 
 ## Overview
 
-This repository contains an end-to-end HR Attrition Analytics Dashboard designed to help business leaders 
-and HR professionals identify key drivers behind employee turnover, evaluate compensation disparities, 
-and analyze workforce tenure patterns.
+This folder contains the dashboard deliverables for the HR Attrition Analysis project.
 
-The dashboard provides actionable insights into high-risk employee segments—such as those working overtime
-or receiving lower monthly compensation—enabling proactive retention strategies.
+The dashboard presents employee attrition patterns through visualisations designed to help stakeholders understand 
+workforce trends.
 
-##  Key Metrics & Insights
-📌 Core Workforce KPIs
-Total Employees: 1,470
+## Tool
+Looker Studio
 
-Overall Attrition Rate: 16.12%
+## Dashboard Objectives
 
-Average Monthly Income: €6,502.93
+The dashboard helps users explore:
 
-Average Tenure: 7.01 years
+Overall employee attrition.
+Attrition rates across departments.
+Attrition patterns by employee tenure.
+Relationships between overtime and attrition.
+Relevant workforce characteristics.
 
-Main Analytical Views
-1. Attrition by Department
-Sales experiences the highest attrition rate at 20.63%, closely followed by Human Resources at 19.05%.
+## Key Findings
 
-Research & Development demonstrates the highest retention stability with the lowest attrition rate at 13.84%.
+The analysis identified:
 
-2. Impact of Overtime on Attrition
-Employees working overtime face a dramatically higher attrition rate (30.53%) compared to non-overtime staff (10.44%).
+An attrition rate of 20.63% in the Sales department.
+Relatively high attrition among employees with 0–2 years of tenure.
+An association between overtime and employee attrition.
 
-Overtime workload is identified as a primary trigger for employee departure.
+These findings describe patterns in the analysed dataset. They do not establish that any single factor causes employees 
+to leave.
 
-3. Income Disparity vs. Turnover
-Employees who stayed at the company have a significantly higher average monthly income (€6,832.74).
+## Files
 
-Employees who left earned an average monthly income of €4,787.09, highlighting compensation as a core retention factor.
+This folder may contain:
 
-4. Tenure vs. Attrition Breakdown
-0–2 Years: Highest vulnerability window (102 departures out of 342 total employees in this cohort).
+Dashboard screenshots.
+Dashboard documentation.
+A link to the interactive Looker Studio report.
+Business Value
 
-3–5 Years: 60 departures (out of 434 total).
-
-6–10 Years: 55 departures (out of 448 total).
-
-10+ Years: Highest stability (20 departures out of 246 total).
-
-Features & Interactivity
-Interactive Filters: Filter dataset views by Department, JobRole, Tenure Group, and OverTime status.
-
-Multi-Tab Navigation:
-
-HR Attrition Dashboard (Overview KPIs and key driver visuals)
-
-Analytical Dashboard (Deep-dive breakdown)
-
-Statistical Validation (Hypothesis testing and significance results)
-
-Dashboard Preview
-Technical Stack & Tools
-Data Visualization / Dashboard: Looker Studio / Tableau / Power BI
-
-Data Processing & Analysis: Python (Pandas, NumPy) / SQL
-
-Statistical Analysis: Statistical significance testing (Hypothesis testing) on core HR metrics
-
-#  Strategic Recommendations
-Target Early Tenure (0–2 Years): Implement structured onboarding and 90-day review touchpoints to
-reduce early-career churn.
-
-Review Overtime Policies: Address burnout in departments with high overtime rates (particularly Sales) 
-by reallocating workload or hiring supporting roles.
-
-Re-evaluate Compensation Structures: Conduct competitive market rate adjustments for roles where 
-departure rates correlate heavily with lower base pay.
+The dashboard helps HR stakeholders identify employee groups that may warrant further investigation and supports 
+data-informed retention planning.
