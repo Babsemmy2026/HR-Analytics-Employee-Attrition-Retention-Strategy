@@ -65,6 +65,7 @@ Key variables include:
 ## Tech Stack
 
 * **SQL (MySQL Workbench)** – Data cleaning and exploratory analysis
+* **Google Sheet** - Dataset
 * **Python** – Statistical testing and data analysis
 * **Pandas** – Data manipulation
 * **SciPy** – Chi-Square Test and Independent T-Test
