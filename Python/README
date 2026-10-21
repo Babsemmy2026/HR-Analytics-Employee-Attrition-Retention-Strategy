@@ -1,1 +1,52 @@
+## Python Statistical Analysis
 
+## Overview
+
+This folder contains the Python analysis performed to investigate employee attrition patterns in the IBM HR Analytics 
+dataset.
+
+Python was used to conduct statistical tests and examine relationships between selected employee characteristics and 
+attrition.
+
+## Tools and Libraries
+Python
+Jupyter Notebook
+Pandas
+SciPy
+Matplotlib, if used for visualisation
+
+## Statistical Analysis
+1. Chi-Square Test of Independence
+
+A chi-square test was used to examine the association between overtime status and employee attrition.
+
+The objective was to assess whether overtime status and attrition were statistically associated in the dataset.
+
+2. Independent Samples t-Test
+
+An independent samples t-test was used to compare monthly income between employees who left the organisation and employees
+who stayed.
+
+The objective was to assess whether the observed difference in average monthly income between the two groups was s
+tatistically significant.
+
+## Analytical Approach
+
+The analysis involved preparing the relevant variables, defining comparison groups, conducting statistical tests, and 
+interpreting the results in the context of the business problem.
+
+## Files
+
+This folder contains the Python notebooks and supporting files used for the statistical analysis.
+
+## Interpretation and Limitations
+
+Statistical association does not establish causation. The results should be interpreted alongside the dataset's 
+limitations and the broader organisational context.
+
+A statistically significant result does not automatically imply that an observed difference is practically important.
+
+## Key Takeaway
+
+Python statistical testing adds analytical depth to the project by evaluating whether observed differences and 
+associations warrant further investigation.
