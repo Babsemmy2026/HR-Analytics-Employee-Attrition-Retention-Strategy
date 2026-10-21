@@ -1,1 +1,33 @@
+## SQL Analysis
+Overview
 
+This folder contains the SQL queries used to investigate employee attrition patterns in the IBM HR Analytics dataset.
+
+## Objectives
+
+The SQL analysis explores workforce attrition to identify employee groups and workplace factors associated with 
+employees leaving the organisation.
+
+## Key questions include:
+
+Which departments have higher attrition rates?
+How does attrition vary with employee tenure?
+What patterns exist between overtime and attrition?
+Which employee characteristics may warrant further investigation?
+
+## Tools
+SQL
+MySQL Workbench
+Analytical Approach
+
+SQL was used to query, filter, aggregate, and analyse employee records to identify attrition patterns and generate 
+insights for further statistical analysis and visualisation.
+
+## Files
+
+The SQL scripts in this folder contain the queries developed for the project.
+
+## Key Takeaway
+
+SQL provides a structured way to examine employee data, quantify attrition patterns, and support 
+evidence-based HR decision-making.
