@@ -1,1 +1,37 @@
+## HR Attrition Analysis — Dataset
 
+## Overview
+
+This folder documents the dataset used in the HR Attrition Analysis project.
+
+## Dataset Source
+
+The project uses the IBM HR Analytics Employee Attrition dataset, a commonly used dataset for exploring workforce 
+characteristics and employee attrition.
+
+## Dataset Overview
+
+The dataset contains 1,470 employee records and 35 attributes describing employee demographics, job characteristics, 
+compensation, work conditions, and attrition status.
+
+## Analytical Focus
+
+The dataset was used to investigate:
+
+Employee attrition across departments.
+The relationship between overtime and attrition.
+Attrition patterns among employees with shorter tenure.
+Differences in monthly income between employees who left and those who stayed.
+
+## Data Preparation
+
+The data was reviewed and prepared for analysis. SQL and Python were used for analytical work, including statistical testing.
+
+Data Privacy and Usage
+
+Only datasets that are permitted for redistribution should be uploaded to this repository. If the dataset is not included, 
+this README documents its source and role in the project.
+
+## Key Takeaway
+
+A clearly documented dataset supports transparency, reproducibility, and reliable interpretation of analytical findings.
