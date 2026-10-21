@@ -1,1 +1,39 @@
+## HR Attrition Analysis — Presentation
 
+## Overview
+
+This folder contains the presentation materials summarising the findings of the HR Attrition Analysis project.
+
+## Purpose
+
+The presentation translates analytical findings into business insights that HR professionals and decision-makers 
+can use to investigate employee retention challenges.
+
+## Contents
+
+The presentation covers:
+
+Business problem and project objectives.
+Dataset overview and analytical methodology.
+Key employee attrition findings.
+Statistical analysis and interpretation.
+Business recommendations.
+Project limitations.
+
+## Tools
+Presentation PDF
+SQL and Python for supporting analysis.
+Looker Studio for dashboard visualisation.
+
+## Intended Audience
+
+HR managers, business stakeholders, recruiters, and data analytics professionals.
+
+## Deliverable
+
+The final presentation will be provided in PDF format.
+
+## Key Takeaway
+
+The presentation demonstrates how employee data can be transformed into clear findings and actionable recommendations 
+to support workforce retention decisions.
